@@ -66,7 +66,6 @@ public class SinglyLinkedList<T> {
 
     // addFirst
     // Adds a node to the front of the Singly Linked List.
-    // If the Singly Linked List is empty,
     public void addFirst(T value) {
 
     }
